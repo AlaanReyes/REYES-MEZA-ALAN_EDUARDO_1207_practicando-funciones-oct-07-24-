@@ -1,6 +1,9 @@
 # Mensaje de bienvenida al usuario
 print("Welcome to PRACTICANDO FUNCIONES OCT 07 24!")
 
+print("REYES MEZA ALAN EDUARDO :   3W")  # INFO DE PRACTICA Y PROGRAMADOR 
+print(" ")  # ESPACIO
+
 # Función que suma cuatro números (dos posicionales y dos nombrados)
 def my_function(a, b, /, *, c, d):
     """
