@@ -45,4 +45,5 @@
 ![image](https://github.com/user-attachments/assets/831cede5-0a68-452e-b19c-0b9d758c9398)
 ![image](https://github.com/user-attachments/assets/da0e9d09-2646-4b74-b104-a0214993558a)
 # EJECUTADO
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4b6ca32d-3cef-4d7e-816c-c78926d2d45b)
+
